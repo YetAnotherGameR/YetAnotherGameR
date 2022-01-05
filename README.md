@@ -2,7 +2,7 @@
 - Hi, I'm GameR!
 - I make software usually in python.
 ## Currently working on.
-- CherryOS (Linux Distro)
+- CherryOS (Windows/Linux)
 ## Social Media
 - **Discord:** @GameR#9270
 - **Steam:** GamerPC
