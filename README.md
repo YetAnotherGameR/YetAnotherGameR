@@ -1,4 +1,11 @@
-### Hi there 👋
+## Introduction
+- Hi, I'm GameR!
+- I make software usually in python.
+## Currently working on.
+- CherryOS (Linux Distro)
+## Social Media
+- **Discord:** @GameR#9270
+- **Steam:** GamerPC
 
 <!--
 **YetAnotherGameR/YetAnotherGameR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
