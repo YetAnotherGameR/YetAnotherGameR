@@ -7,7 +7,6 @@
 - Tiny Penguin (HTML)
 ## Social Media
 - **Discord:** @GameR#9270
-- **Steam:** GamerPC
 
 <!--
 **YetAnotherGameR/YetAnotherGameR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
