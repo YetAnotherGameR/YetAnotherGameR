@@ -3,7 +3,7 @@
 - I make software usually in python.
 - You can view my projects [here.](https://yetanothergamer.github.io/)
 ## Currently working on.
-- [CherryOS (Windows/Linux)](https://github.com/YetAnotherGameR/CherryOS)
+- CherryOS (Windows/Linux) - [Download Latest Version](https://github.com/YetAnotherGameR/CherryOS/files/7842282/v1-0.zip)
 - Tiny Penguin (HTML)
 ## Social Media
 - **Discord:** @GameR#9270
